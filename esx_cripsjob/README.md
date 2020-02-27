@@ -1,5 +1,7 @@
-# fxserver-esx_policejob
-FXServer ESX Police Job
+this is a edited version of the esx_policejob to pose as a gangjob and is very customizable 
+discord:Swxy#0001
+# fxserver-esx_cripsjob
+FXServer ESX crips Job
 
 [REQUIREMENTS]
 
@@ -18,14 +20,14 @@ FXServer ESX Police Job
 1) CD in your resources/[esx] folder
 2) Clone the repository
 ```
-git clone https://github.com/FXServer-ESX/fxserver-esx_policejob esx_policejob
+
 ```
-3) Import esx_policejob.sql in your database
+3) Import esx_cripsjob.sql in your database
 
 4) Add this in your server.cfg :
 
 ```
-start esx_policejob
+start esx_cripsjob
 ```
 5) * If you want player management you have to set Config.EnablePlayerManagement to true in config.lua
    * If you want armory management you have to set Config.EnableArmoryManagement to true in config.lua
